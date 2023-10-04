@@ -3518,3 +3518,37 @@ input, select, textarea {
 input::placeholder, textarea::placeholder{
 	color:white !important;
 }
+h1,h2,h3{
+	font-weight: 450 !important;
+}
+p,span{
+	font-weight: 400 !important;
+}
+
+.skills{
+	display: flex;
+	box-sizing: border-box;
+	width: 40% !important;
+	flex-wrap: wrap ;
+	height: 400px;
+}
+.skills div{
+	padding: 5px;
+	margin: 10px;
+	width: 150px;
+	height: 150px;
+	flex-basis: content;
+}
+.skills img{
+	width: 140px;
+	height: 100%;
+	object-fit: fit;
+}
+.offer{
+	box-sizing: border-box;
+	width: 50% !important;
+}
+
+.button.project{
+	border-radius: 3px;
+}
