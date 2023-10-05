@@ -3531,7 +3531,7 @@ p,span{
 	width: 40% !important;
 	flex-wrap: wrap ;
 	height: 400px;
-}
+} 
 .skills div{
 	padding: 5px;
 	margin: 10px;
@@ -3547,6 +3547,7 @@ p,span{
 .offer{
 	box-sizing: border-box;
 	width: 50% !important;
+	text-align: center !important;
 }
 
 .button.project{
