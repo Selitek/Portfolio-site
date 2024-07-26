@@ -3553,3 +3553,7 @@ p,span{
 .button.project{
 	border-radius: 3px;
 }
+#pp{
+	width: 50%;
+	height: 50%;
+}
