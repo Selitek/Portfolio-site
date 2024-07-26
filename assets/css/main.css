@@ -3554,6 +3554,7 @@ p,span{
 	border-radius: 3px;
 }
 #pp{
-	width: 25%;
-	height: 25%;
+	width: 10%;
+	height: 10%;
+	border-radius: 50%;
 }
